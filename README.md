@@ -3,4 +3,4 @@ This repo contains my semester project, "Parking Project," for the Applied Machi
 
 This Jupyter notebook contains a Logistic Regression which acts as a binary classifier to predict the likelihood of receiving a parking ticket in a given area.
 
-The datasets used are taken from NYC OpenData and based on NYC's parking violation data.
+The datasets used includes NYC's parking violation data and are taken from NYC OpenData.
